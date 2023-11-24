@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">I'm a Web, Mobile Application and Game Developer from India</h3>
 
-- 💬 Ask me about **React, Python, My-SQL, JavaScript**
+- 💬 Ask me about **React, Python, My-SQL, JavaScript, Express**
 
 - 📫 Reach me **nitesh62087@gmail.com**
 
