@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">I'm a Web, Mobile Application and Game Developer from India</h3>
+<h3 align="center">I'm a Web and Game Developer from India</h3>
 
-- 💬 Ask me about **React, Python, My-SQL, JavaScript, Express**
+- 💬 Ask me about **MERN Stack, Python,MySql and Django**
 
 - 📫 Reach me **nitesh62087@gmail.com**
 
