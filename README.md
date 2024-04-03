@@ -11,9 +11,12 @@
 <a href="https://www.hackerrank.com/niteshkumar59837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/niteshkumar59837" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nites.h359/?igshid=NGExMmI2YTkyZg%3D%3D" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="www.instagram.com/nites.h359" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
   <a href="https://reactjs.org/" target="_blank" style="text-decoration:none"> <img src="https://media.licdn.com/dms/image/D4D12AQEVgnR6B9CviA/article-cover_image-shrink_720_1280/0/1686293618422?e=2147483647&v=beta&t=y5MVYNeYVgyrZnO_COj6r8aDrsry8kvOTVg74a8i2hg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
