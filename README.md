@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/nites.h359/?igshid=NGExMmI2YTkyZg%3D%3D" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="www.instagram.com/nites.h359" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div style="display:flex;justify-content:center;align-item:center">
   <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-express-8-1175029.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/react-3.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
@@ -22,4 +22,4 @@
 <a style="text-decoration:none" href="https://www.mysql.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="40" height="40"/> </a>
   <a style="text-decoration:none" href="https://www.djangoproject.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="django" width="40" height="40"/> </a>
   
-   </p>
+   </div>
