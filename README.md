@@ -13,13 +13,13 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a style="text-decoration:none" href="https://www.mysql.com/" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/> </a>
-  <a style="text-decoration:none" href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.liblogo.com/img-logo/dj3164d344-django-logo-django-logo-png-transparent-amp-svg-vector-freebie-supply.png" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-express-8-1175029.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/react-3.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="www.linkedin.com/in/nitesh-kumar-b230ba1a6/" height="30" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" style="text-decoration:none"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
+<a style="text-decoration:none" href="https://www.mysql.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="40" height="40"/> </a>
+  <a style="text-decoration:none" href="https://www.djangoproject.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="django" width="40" height="40"/> </a>
   
    </p>
