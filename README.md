@@ -27,4 +27,3 @@
 <hr />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niteshkumar13&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="thejustinlombardi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niteshkumar13&theme=cobalt" alt="thejustinlombardi" /></p>
