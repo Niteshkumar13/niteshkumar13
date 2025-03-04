@@ -12,17 +12,17 @@
 <a href="https://www.instagram.com/nites.h359/?igshid=NGExMmI2YTkyZg%3D%3D" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="www.instagram.com/nites.h359" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p>
-<img width="40" height="40" src="https://skillicons.dev/icons?i=python"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=django"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=javascript"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=mongodb"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=express"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=react"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=postgresql"></img>&nbsp;&nbsp;
-<img width="40" height="40" src="https://skillicons.dev/icons?i=docker"></img>&nbsp;&nbsp;
+<p> 
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Python.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Django.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Express.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/React.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Node.js.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/MySQL.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Docker.svg"></img>&nbsp;&nbsp;
 </p>
 <hr />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niteshkumar13&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="thejustinlombardi" /></p>
