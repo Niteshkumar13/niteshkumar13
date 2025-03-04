@@ -24,6 +24,4 @@
 <img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"></img>&nbsp;&nbsp;
 <img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Docker.svg"></img>&nbsp;&nbsp;
 </p>
-<hr />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niteshkumar13&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="thejustinlombardi" /></p>
 
