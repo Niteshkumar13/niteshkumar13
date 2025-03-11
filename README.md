@@ -1,9 +1,5 @@
-<h1>Hi 👋, I'm Nitesh Kumar</h1>
-
-- 💬 Ask me about **Python, MERN Stack, JavaScript**
-- 📫 Reach me **nitesh62087@gmail.com**
+- 👋 Hi, I’m Nitesh Kumar
 - 👀 I’m interested in Cloud & Devops
 - 🌱 I’m currently learning multicloud technologies and Devops
-
-
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-b230ba1a6/)
+- 👩🏾‍💻  Portfolio: [LinkedIn](https://krnitesh.xyz/)
